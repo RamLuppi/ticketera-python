@@ -11,19 +11,19 @@ Este es un sistema simple de gestión de tickets desarrollado en Python que perm
 - Python 3.8 o superior.
 
 🛠️ Funcionalidades
--Generar un nuevo ticket:
+- Generar un nuevo ticket:
 
--Solicita nombre, sector, asunto y mensaje.
+- Solicita nombre, sector, asunto y mensaje.
 
--Genera un número de ticket aleatorio.
+- Genera un número de ticket aleatorio.
 
--Guarda los datos en un archivo .pkl.
+- Guarda los datos en un archivo .pkl.
 
--Leer un ticket existente:
+- Leer un ticket existente:
 
--Pide el número de ticket.
+- Pide el número de ticket.
 
--Muestra los detalles si existe.
+- Muestra los detalles si existe.
 
 📂 Estructura del proyecto
 ticket_system/
@@ -31,6 +31,6 @@ ticket_system/
 │── ticket_XXXX.pkl        # Tickets generados (ejemplo)
 
 ⚠️ Notas
--Los tickets se guardan en archivos .pkl en el mismo directorio.
+- Los tickets se guardan en archivos .pkl en el mismo directorio.
 
--No requiere base de datos externa (usa serialización con pickle).
+- No requiere base de datos externa (usa serialización con pickle).
