@@ -11,7 +11,7 @@ Este es un sistema simple de gestión de tickets desarrollado en Python que perm
 - Python 3.8 o superior.
 
 ## 📂 Funcionalidades
-- Generar un nuevo ticket:
+# Generar un nuevo ticket:
 
 - Solicita nombre, sector, asunto y mensaje.
 
@@ -19,7 +19,7 @@ Este es un sistema simple de gestión de tickets desarrollado en Python que perm
 
 - Guarda los datos en un archivo .pkl.
 
-- Leer un ticket existente:
+# Leer un ticket existente:
 
 - Pide el número de ticket.
 
